@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MAD_PROJECT_GENDER</string>
+    <string name="title_activity_h1">h1</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY</string>
+    <string name="articals">आर्टिकल्स</string>
+    <string name="change_language">भाषा बदलें</string>
+    <string name="new_then_register_now">नया? तो अभी रजिस्टर करें</string>
+    <string name="login">लॉगिन</string>
+    <string name="password">पासवर्ड</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="LOGIN">लॉगिन</string>
+    <string name="d_r_vora">डी.आर.वोरा</string>
+    <string name="email">ईमेल</string>
+    <string name="register">पंजीकृत करें</string>
+    <string name="confirm_password">पासवर्ड की पुष्टि करें</string>
+    <string name="welcome_buddy">आपका स्वागत है दोस्त</string>
+    <string name="member_then_login_now">सदस्य? तो अब लॉगिन करें</string>
+</resources>
